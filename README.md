@@ -1,2 +1,0 @@
-# game
-block tetris clone
